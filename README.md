@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenishantsapkota&label=Profile%20views&color=0e75b6&style=flat" alt="thenishantsapkota" /> </p>
+
 - 🔭 I’m currently working on ... learning linux and js
 - 🌱 I’m currently learning ... to study for exams
 - 👯 I’m looking to collaborate on ... you teaching me js
