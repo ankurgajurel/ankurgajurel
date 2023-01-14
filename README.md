@@ -2,10 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurgajurel" alt="ankurgajurel" /> </p>
 
-- 🔭 I’m currently working on ... learning linux and js
-- 🌱 I’m currently learning ... hmm
-- 👯 I’m looking to collaborate on ... you teaching me js
-- 🤔 I’m looking for help with ... React 
+- 🔭 I’m currently working on ... learning khai
+- 🌱 I’m currently learning ... khai
+- 👯 I’m looking to collaborate on ... you teaching me everything
+- 🤔 I’m looking for help with ... everything 
 - 📫 How to reach me: ... <a href="https://facebook.com/theresureishope">Facebook</a>, <a href="https://instagram.com/theresureishope">Instagram</a>, <a href="mailto:ankurgajurel02@gmail.com">Mail</a>, <a href="mailto:ankurgajurel02@gmail.com">Google Mail</a>, 
 - ⚡ True fact: ... Not that good academically
 
