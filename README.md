@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurgajurel" alt="ankurgajurel" /> </p>
 
-![](https://github.com/ankurgajurel/ankurgajurel/hello.gif)
+![](https://raw.githubusercontent.com/ankurgajurel/ankurgajurel/main/hello.gif)
 
 - 📫 How to reach me: ... <a href="https://facebook.com/theresureishope">Facebook</a>, <a href="https://instagram.com/theresureishope">Instagram</a>, <a href="mailto:ankurgajurel02@gmail.com">Mail</a>, <a href="mailto:ankurgajurel02@gmail.com">Google Mail</a>, 
 
