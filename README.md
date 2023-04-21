@@ -10,3 +10,5 @@
 <p style="display: flex; justify-content: space-evenly; align-items: center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ankurgajurel&theme=dark&amp;show_icons=true" alt="GitHub Stats">
 <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=ankurgajurel&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats"></p>
+
+<a href="http://www.github.com/ashwin1321"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ankurgajurel&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
