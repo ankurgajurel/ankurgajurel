@@ -7,8 +7,9 @@
 <a href="https://www.instagram.com/theresureishope/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 <a href="mailto:ankurgajurel02@gmail.com"><img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <p><img src="https://raw.githubusercontent.com/ankurgajurel/ankurgajurel/main/hello.gif" height="200" ></p>
-<p style="display: flex; justify-content: space-evenly; align-items: center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=ankurgajurel&theme=dark&amp;show_icons=true" alt="GitHub Stats">
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=ankurgajurel&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats"></p>
-
-<a href="http://www.github.com/ashwin1321"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ankurgajurel&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p align="center">
+<a href="https://github.com/ankurgajurel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ankurgajurel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankurgajurel&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
