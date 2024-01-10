@@ -8,4 +8,4 @@
 
 
 <img align="left" height="150vh" alt="Profile-Overview"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=ankurgajurel&theme=tokyonight" />
+                src="https://streak-stats.demolab.com/?user=ankurgajurel&theme=bear" />
