@@ -5,8 +5,3 @@
 <a href="https://www.instagram.com/theresureishope/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 <a href="https://www.twitter.com/ankurgajurel/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 <a href="mailto:ankurgajurel02@gmail.com"><img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankurgajurel&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="ankurgajurel" /></p>
-
-<br>
